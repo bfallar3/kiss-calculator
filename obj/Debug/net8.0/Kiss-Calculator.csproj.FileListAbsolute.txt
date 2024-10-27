@@ -1,0 +1,14 @@
+/Users/benjsoft/Projects/Kiss-Calculator/bin/Debug/net8.0/Kiss-Calculator
+/Users/benjsoft/Projects/Kiss-Calculator/bin/Debug/net8.0/Kiss-Calculator.deps.json
+/Users/benjsoft/Projects/Kiss-Calculator/bin/Debug/net8.0/Kiss-Calculator.runtimeconfig.json
+/Users/benjsoft/Projects/Kiss-Calculator/bin/Debug/net8.0/Kiss-Calculator.dll
+/Users/benjsoft/Projects/Kiss-Calculator/bin/Debug/net8.0/Kiss-Calculator.pdb
+/Users/benjsoft/Projects/Kiss-Calculator/obj/Debug/net8.0/Kiss-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjsoft/Projects/Kiss-Calculator/obj/Debug/net8.0/Kiss-Calculator.AssemblyInfoInputs.cache
+/Users/benjsoft/Projects/Kiss-Calculator/obj/Debug/net8.0/Kiss-Calculator.AssemblyInfo.cs
+/Users/benjsoft/Projects/Kiss-Calculator/obj/Debug/net8.0/Kiss-Calculator.csproj.CoreCompileInputs.cache
+/Users/benjsoft/Projects/Kiss-Calculator/obj/Debug/net8.0/Kiss-Calculator.dll
+/Users/benjsoft/Projects/Kiss-Calculator/obj/Debug/net8.0/refint/Kiss-Calculator.dll
+/Users/benjsoft/Projects/Kiss-Calculator/obj/Debug/net8.0/Kiss-Calculator.pdb
+/Users/benjsoft/Projects/Kiss-Calculator/obj/Debug/net8.0/Kiss-Calculator.genruntimeconfig.cache
+/Users/benjsoft/Projects/Kiss-Calculator/obj/Debug/net8.0/ref/Kiss-Calculator.dll
